@@ -11,3 +11,6 @@ https://fontpair.co/   // Pair font
 
 Color scheme
 https://coolors.co/
+
+Get color name 
+https://www.color-blindness.com/color-name-hue/
