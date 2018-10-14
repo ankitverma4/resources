@@ -25,3 +25,7 @@ https://www.color-blindness.com/color-name-hue/
 
 Icons
 https://fontawesome.com/
+
+
+Animate css
+https://daneden.github.io/animate.css/
