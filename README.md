@@ -8,3 +8,6 @@ Fonts
 https://fonts.google.com/
 https://www.fontsquirrel.com/
 https://fontpair.co/   // Pair font
+
+Color scheme
+https://coolors.co/
