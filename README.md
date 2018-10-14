@@ -22,3 +22,6 @@ https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnm
 
 Get color name 
 https://www.color-blindness.com/color-name-hue/
+
+Icons
+https://fontawesome.com/
